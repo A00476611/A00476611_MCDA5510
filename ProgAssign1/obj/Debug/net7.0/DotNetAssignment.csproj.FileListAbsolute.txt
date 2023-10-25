@@ -1,0 +1,17 @@
+C:\Users\dshon\Desktop\DotNetAssignment\bin\Debug\net7.0\DotNetAssignment.exe
+C:\Users\dshon\Desktop\DotNetAssignment\bin\Debug\net7.0\DotNetAssignment.deps.json
+C:\Users\dshon\Desktop\DotNetAssignment\bin\Debug\net7.0\DotNetAssignment.runtimeconfig.json
+C:\Users\dshon\Desktop\DotNetAssignment\bin\Debug\net7.0\DotNetAssignment.dll
+C:\Users\dshon\Desktop\DotNetAssignment\bin\Debug\net7.0\DotNetAssignment.pdb
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.AssemblyInfoInputs.cache
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.AssemblyInfo.cs
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.dll
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\refint\DotNetAssignment.dll
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.pdb
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.genruntimeconfig.cache
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\ref\DotNetAssignment.dll
+C:\Users\dshon\Desktop\DotNetAssignment\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.csproj.AssemblyReference.cache
+C:\Users\dshon\Desktop\DotNetAssignment\obj\Debug\net7.0\DotNetAssignment.csproj.CopyComplete

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nnk5mnVmuxIARB2rVmpFma+UavBZG3//+t+Bjmp+GkrOqP/Em2QTD2mw0sTmSNow6IMNujKJmyG8Ebryw0eDuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dshon\\Desktop\\ProgAssign1\\ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dshon\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\dshon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dshon\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dshon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dshon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
