@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dshon\\Desktop\\ProgAssign1\\ProgAssign1.csproj",
+      "projectUniqueName": "C:\\Users\\dshon\\OneDrive\\Documents\\MCDA\\Software Dev\\Assignments\\ProgAssign1\\ProgAssign1.csproj",
       "projectName": "ProgAssign1",
-      "projectPath": "C:\\Users\\dshon\\Desktop\\ProgAssign1\\ProgAssign1.csproj",
+      "projectPath": "C:\\Users\\dshon\\OneDrive\\Documents\\MCDA\\Software Dev\\Assignments\\ProgAssign1\\ProgAssign1.csproj",
       "packagesPath": "C:\\Users\\dshon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dshon\\Desktop\\ProgAssign1\\obj\\",
+      "outputPath": "C:\\Users\\dshon\\OneDrive\\Documents\\MCDA\\Software Dev\\Assignments\\ProgAssign1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

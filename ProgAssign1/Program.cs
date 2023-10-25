@@ -91,7 +91,7 @@ using (var csvWriter = new CsvWriter(writer, CultureInfo.InvariantCulture))
                     }
 
                     validRowCount++;
-                    customer.date = string.Join('-', filePath.Split("\\").TakeLast(4).Take(3).Reverse());
+                    customer.date = string.Join('/', filePath.Split("\\").TakeLast(4).Take(3));
                     csvWriter.WriteRecord(customer);
                     csvWriter.NextRecord();
                 }
